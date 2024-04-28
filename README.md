@@ -1,4 +1,4 @@
-Hi, I'm Yaroslav
+Hi, I'm Yaroslav.
 I'm 16 y.o.
 Just interested in learning programming :)
 <!---
